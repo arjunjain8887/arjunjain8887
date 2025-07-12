@@ -8,28 +8,18 @@
 - 🌱 I’m currently learning **Ethical Hacking, Linux, and Network Security**
 - 🚩 Practicing on **TryHackMe, HackTheBox, and CTF challenges**
 - 📚 Building writeups and cheatsheets to improve my knowledge
-- 📫 How to reach me: **arjunjai8887@gmail.com**
+- 📫 How to reach me: **arjunjain8887@gmail.com**
 
 ---
 
 ### 🛠️ Skills & Tools
 
-- 🐧 **Linux** (Debian/Kali/Parrot OS)
+- 🐧 **Linux** (kali)
 - 🐍 **Python** (Basic scripting & automation)
 - 📡 **Nmap**, **Wireshark**, **tcpdump**, **Nikto**
 - 🕸️ **Burp Suite**, **Gobuster**, **SQLmap**
 - 📂 Active Directory basics (Kerberos, SMB)
-- 🛡️ Web Exploitation: SQLi, XSS, LFI, File Uploads
-
----
-
-### 🧪 Lab & CTF Writeups
-
-> 📁 View full writeups in my [CTF-Writeups](https://github.com/arjunjain8887/CTF-Writeups) repo
-
-- ✅ [Mr. Robot – TryHackMe](https://github.com/arjunjain8887/CTF-Writeups/blob/main/mrrobot.md)
-- ✅ [Basic Pentesting](https://github.com/arjunjain8887/CTF-Writeups/blob/main/basicpentesting.md)
-- 🧠 [Linux Privilege Escalation Notes](https://github.com/arjunjain8887/Privilege-Escalation/blob/main/linux-pe.md)
+- 🛡️ Web Exploitation: SQLi, XSS, File Uploads
 
 ---
 
@@ -37,7 +27,7 @@
 
 - 🔄 Bash script to automate reconnaissance
 - 📜 Building my own vulnerable web app lab (mini DVWA)
-- 📚 eJPT & PT1 certification preparation
+- 📚 PT1 certification preparation
 
 ---
 
