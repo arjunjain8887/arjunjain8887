@@ -1,41 +1,77 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Aspiring Ethical Hacker | Passionate about Pentesting & Cybersecurity</h3>
+<h3 align="center">Cybersecurity Enthusiast | Pentesting • Vulnerability Assessment • SOC Operations</h3>
 
-<img align="right" alt="Hacking" width="400" src="https://as1.ftcdn.net/v2/jpg/07/43/96/38/1000_F_743963814_ZzzNkxTLvKip5z37pPZlZ8y1FnK75kHl.jpg">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=arjunjain8887&label=Profile%20views&color=0e75b6&style=flat" alt="arjunjain8887" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunjain8887&label=Profile%20views&color=0e75b6&style=flat" alt="arjunjain8887" /> </p>
+<p align="center">
+BCA undergraduate (Swift College, Bhilwara) with hands-on internship experience in network security, vulnerability assessment, penetration testing, and digital forensics. Looking for an <b>entry-level cybersecurity / SOC role</b>.
+</p>
 
-- 🌱 I’m currently learning **Ethical Hacking, Linux, and Network Security**
-- 🚩 Practicing on **TryHackMe, HackTheBox, and CTF challenges**
-- 📚 Building writeups and cheatsheets to improve my knowledge
-- 📫 How to reach me: **arjunjain8887@gmail.com**
+---
+
+### 👨‍💻 About Me
+
+- 🎓 BCA @ Swift College, Bhilwara (MDSU Ajmer) | 2023 – 2026
+- 🛡️ Completed the **TryHackMe SOC Level 1** path
+- 🚩 **50+ TryHackMe rooms** solved and **20+ CTF challenges** completed as an attacker (writeups on my GitHub)
+- 📜 **Ethical Hacking Certified** – Tutedude (July 2025)
+- 📫 Reach me: **arjunjain8887@gmail.com**
+
+---
+
+### 💼 Experience
+
+**Cybersecurity Intern – SystemTron** (Remote, June 2025)
+- Recon and port/service scanning with Nmap
+- Vulnerability assessments using Nessus, OpenVAS, and Nikto
+- Detected ARP spoofing and sniffed credentials with Wireshark
+- Hardening: CVE patching, firewall config, strong auth policies
+- Validated fixes with Metasploit and Hydra, and delivered a final audit report
+
+**Cybersecurity Intern – Codec Technologies** (Remote, 2 months)
+- Network and vulnerability scanning with Nmap and Nessus
+- Web app testing with Burp Suite
+- Exploitation practice in a lab using Metasploit
+- Wrote security findings and recommendations
+
+---
+
+### 🚀 Projects
+
+**🕵️ Threat Detection System** — `Python` `Flask` `HTML/CSS/JS` `SQLite`
+- Agent parses access logs and scores severity through a Flask API
+- Real-time **Telegram bot alerts** for high and critical events
+- IP intelligence + automated IP blocking
+- Local web dashboard with live charts of logged threats
+
+**🔍 Grey-Box Penetration Test — Live College Website** (Aug 2025)
+- Planned and executed a full pentest in a 2-day window
+- DNS mapping, directory enumeration (Gobuster), WordPress scanning (WPScan)
+- Found high-risk issues and wrote a complete report with risk ratings and remediation steps
 
 ---
 
 ### 🛠️ Skills & Tools
 
-- 🐧 **Linux** (kali)
-- 🐍 **Python** (Basic scripting & automation)
-- 📡 **Nmap**, **Wireshark**, **tcpdump**, **Nikto**
-- 🕸️ **Burp Suite**, **Gobuster**, **SQLmap**
-- 📂 Active Directory basics (Kerberos, SMB)
-- 🛡️ Web Exploitation: SQLi, XSS, File Uploads
-
----
-
-### 🚧 Projects in Progress
-
-- 🔄 Bash script to automate reconnaissance
-- 📜 Building my own vulnerable web app lab (mini DVWA)
-- 📚 PT1 certification preparation
+| Area | Tools / Skills |
+|---|---|
+| 🔐 Security Tools | Nmap, Wireshark, Metasploit, Nessus, OpenVAS, Nikto, Hydra, Gobuster, WPScan, Burp Suite |
+| 🐍 Programming | Python, Flask, SQL, Node.js |
+| 🌐 Web Security | OWASP Top 10, SQL Injection Prevention, OAuth, JWT, Secure Auth |
+| 🧱 Network Security | Firewall Config, iptables, Packet Filtering, Network Hardening, ARP Spoofing Detection |
+| 📋 Practices | Pentesting, Vulnerability Assessment, Digital Forensics, Incident Response, Security Auditing, Report Writing |
+| 🖥️ Web Dev | HTML, CSS, JavaScript, Flask, SQLite |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunjain8887&show_icons=true&locale=en&layout=compact" alt="arjunjain8887" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunjain8887&show_icons=true&locale=en" alt="arjunjain8887" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunjain8887&show_icons=true&locale=en&layout=compact" alt="arjunjain8887" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunjain8887&show_icons=true&locale=en" alt="arjunjain8887" />
+</p>
 
 ---
 
