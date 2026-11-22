@@ -30,15 +30,15 @@ BCA undergraduate (Swift College, Bhilwara) with hands-on internship experience 
 - Hardening: CVE patching, firewall config, strong auth policies
 - Validated fixes with Metasploit and Hydra, and delivered a final audit report
 
-**Cybersecurity Intern – Codec Technologies** (Remote, 2 months)
-- Network and vulnerability scanning with Nmap and Nessus
-- Web app testing with Burp Suite
-- Exploitation practice in a lab using Metasploit
-- Wrote security findings and recommendations
-
 ---
 
 ### 🚀 Projects
+
+**🧪 Cybersecurity Attack & Detection Lab** — `<tools: e.g. VirtualBox/VMware>` `<attacker OS>` `<victim OS>` `<SIEM/monitoring tool>`
+- Built a 3-machine lab: `<attacker machine>`, `<victim machine>`, `<detection/monitoring machine>`
+- Ran `<attacks you performed>` from the attacker machine against the victim
+- Detected and analyzed the activity on the monitoring machine using `<tool/logs>`
+- Documented attack steps, detections, and findings
 
 **🕵️ Threat Detection System** — `Python` `Flask` `HTML/CSS/JS` `SQLite`
 - Agent parses access logs and scores severity through a Flask API
